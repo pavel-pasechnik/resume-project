@@ -282,6 +282,8 @@ body {
 
 }
 
+/* Adaptive */
+
 @media screen and (max-width: 1100px) {
 	.main-content {
 		padding: 40px;
